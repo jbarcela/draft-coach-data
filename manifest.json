@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "patch": "16.22",
+ "version": "16.22.1",
+ "generatedAt": "2026-11-12T16:21:13.451Z",
+ "minAppVersion": "1.0.0",
+ "champions": {
+  "volibear": {
+   "file": "guides/16.22/volibear.json.gz",
+   "hash": "afec464392128334c6276d8d38ed0fe3d6347a9510d1413e7a680dddb67274e9",
+   "size": 1832490,
+   "gzSize": 193710,
+   "key": "Volibear",
+   "role": "TOP",
+   "name": "Volibear",
+   "games": 5977,
+   "wr": 52.2,
+   "patches": "16.20, 16.21, 16.22"
+  },
+  "darius": {
+   "file": "guides/16.22/darius.json.gz",
+   "hash": "08d90d5f75f36250b3d99311812efdab4a64f888f6ce60cc1aeba1817f481e7d",
+   "size": 1932808,
+   "gzSize": 195918,
+   "key": "Darius",
+   "role": "TOP",
+   "name": "Darius",
+   "games": 11503,
+   "wr": 55.7,
+   "patches": "16.20, 16.21, 16.22"
+  },
+  "mordekaiser": {
+   "file": "guides/16.22/mordekaiser.json.gz",
+   "hash": "6fb6358e165c051cfd33b9456838ec2d36623d97d4e148ffa3b8edd31f205e90",
+   "size": 1655938,
+   "gzSize": 169079,
+   "key": "Mordekaiser",
+   "role": "TOP",
+   "name": "Mordekaiser",
+   "games": 5748,
+   "wr": 55.8,
+   "patches": "16.20, 16.21, 16.22"
+  },
+  "udyr": {
+   "file": "guides/16.22/udyr.json.gz",
+   "hash": "bb2254450222512993477a15af72ef4e1dea09d5873b21fa6e6e91d7c222df64",
+   "size": 1762956,
+   "gzSize": 168369,
+   "key": "Udyr",
+   "role": "JUNGLE",
+   "name": "Udyr",
+   "games": 6603,
+   "wr": 56,
+   "patches": "16.20, 16.21, 16.22"
+  },
+  "hecarim": {
+   "file": "guides/16.22/hecarim.json.gz",
+   "hash": "2d705da20e1ec9b20af59d39ba2a55323d3fac5457dd5c53b2935718e51fec1d",
+   "size": 1770336,
+   "gzSize": 160428,
+   "key": "Hecarim",
+   "role": "JUNGLE",
+   "name": "Hecarim",
+   "games": 12365,
+   "wr": 57.5,
+   "patches": "16.20, 16.21, 16.22"
+  },
+  "volibear-jungle": {
+   "file": "guides/16.22/volibear-jungle.json.gz",
+   "hash": "7ef55cd129fe128d2087aa6f1a5910cb0767ac85bfad3304ea2ef34684793630",
+   "size": 794661,
+   "gzSize": 80749,
+   "key": "Volibear",
+   "role": "JUNGLE",
+   "name": "Volibear",
+   "games": 950,
+   "wr": 51.2,
+   "patches": "16.20, 16.21, 16.22"
+  }
+ },
+ "shared": {
+  "champions": {
+   "file": "shared/16.22.1/champions.json.gz",
+   "hash": "9db3b933f8a8ec7acc8b7d010d9f2a4505613d14ec915e6d2e4f348506109797",
+   "size": 42439,
+   "gzSize": 8778
+  },
+  "items": {
+   "file": "shared/16.22.1/items.json.gz",
+   "hash": "a4cb5072ce5456b8fc802eac1f042d6442f7b4ea52d46e915d8827b5c64bafb5",
+   "size": 83617,
+   "gzSize": 13075
+  },
+  "jungle": {
+   "file": "shared/16.22.1/jungle.json.gz",
+   "hash": "7a4f9e0020872f91c0788a37efae3841adf677da31bf8bbcb05e5af84226dabd",
+   "size": 35903,
+   "gzSize": 5738
+  },
+  "tips": {
+   "file": "shared/16.22.1/tips.json.gz",
+   "hash": "fd05583e4009bfc47349fa97e5314aa89e3dd9f69fa47c0ccb5efcf34bb25f0b",
+   "size": 46548,
+   "gzSize": 12557
+  },
+  "names.en": {
+   "file": "shared/16.22.1/names.en.json.gz",
+   "hash": "f7a163cb467de52152c7b16ff8e88778c63f0a49af1c7441397d63d86056c9bb",
+   "size": 9292,
+   "gzSize": 2959
+  },
+  "items.en": {
+   "file": "shared/16.22.1/items.en.json.gz",
+   "hash": "7438bae518c65042e8f75603640c72c4bbcc98671ee5ef9babd2900e25833135",
+   "size": 33803,
+   "gzSize": 8779
+  },
+  "kits.en": {
+   "file": "shared/16.22.1/kits.en.json.gz",
+   "hash": "57ae1fc9d37d027f42d2d2e8cf9587d6ca236c1b5638b0363c254df69d321198",
+   "size": 232364,
+   "gzSize": 63326
+  },
+  "tips.en": {
+   "file": "shared/16.22.1/tips.en.json.gz",
+   "hash": "7b844aec991ac10941ccad7cc67e5887baa1d174282cdef55d93e36ece8efc6f",
+   "size": 38428,
+   "gzSize": 12046
+  }
+ }
+}
