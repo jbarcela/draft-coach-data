@@ -2,7 +2,7 @@
  "schema": 1,
  "patch": "16.22",
  "version": "16.22.1",
- "generatedAt": "2026-11-12T16:21:13.451Z",
+ "generatedAt": "2026-11-14T00:06:06.436Z",
  "minAppVersion": "1.0.0",
  "champions": {
   "volibear": {
@@ -76,14 +76,74 @@
    "games": 950,
    "wr": 51.2,
    "patches": "16.20, 16.21, 16.22"
+  },
+  "diana-middle": {
+   "file": "guides/16.22/diana-middle.json.gz",
+   "hash": "0a122feca66732b3bf6ad24a53e4f45c8cc79a346e1fa31e2b45978565766392",
+   "size": 1772017,
+   "gzSize": 168290,
+   "key": "Diana",
+   "role": "MIDDLE",
+   "name": "Diana",
+   "games": 4586,
+   "wr": 55.8,
+   "patches": "16.21, 16.22"
+  },
+  "sion": {
+   "file": "guides/16.22/sion.json.gz",
+   "hash": "d353275b5aeaa3709d4f606b688ffce2225a9915ba3e583a2768b6171f24d215",
+   "size": 1903160,
+   "gzSize": 183298,
+   "key": "Sion",
+   "role": "TOP",
+   "name": "Sion",
+   "games": 3154,
+   "wr": 57.7,
+   "patches": "16.21, 16.22"
+  },
+  "sion-jungle": {
+   "file": "guides/16.22/sion-jungle.json.gz",
+   "hash": "51432830684eec11819815645e0e843e7d1071bbfda9ace70054226b54d265a1",
+   "size": 1007111,
+   "gzSize": 97924,
+   "key": "Sion",
+   "role": "JUNGLE",
+   "name": "Sion",
+   "games": 778,
+   "wr": 53.6,
+   "patches": "16.21, 16.22"
+  },
+  "sion-middle": {
+   "file": "guides/16.22/sion-middle.json.gz",
+   "hash": "016cf644aaf24553449499bf375d72f73b1c92032a4d99d1ea140bdcc2eed822",
+   "size": 1076253,
+   "gzSize": 105758,
+   "key": "Sion",
+   "role": "MIDDLE",
+   "name": "Sion",
+   "games": 787,
+   "wr": 56.9,
+   "patches": "16.21, 16.22"
+  },
+  "caitlyn": {
+   "file": "guides/16.22/caitlyn.json.gz",
+   "hash": "fc8b6c8081d05f8133535f7caeb15634ffb9f6f1a18c6ffb98febc00a22e1f5f",
+   "size": 825043,
+   "gzSize": 81147,
+   "key": "Caitlyn",
+   "role": "BOTTOM",
+   "name": "Caitlyn",
+   "games": 1636,
+   "wr": 50.7,
+   "patches": "16.21, 16.22"
   }
  },
  "shared": {
   "champions": {
    "file": "shared/16.22.1/champions.json.gz",
-   "hash": "9db3b933f8a8ec7acc8b7d010d9f2a4505613d14ec915e6d2e4f348506109797",
-   "size": 42439,
-   "gzSize": 8778
+   "hash": "054b36e339bfef7455b0ac50f25f529d9cdcd934c95c34844dffdd01bb388556",
+   "size": 42465,
+   "gzSize": 8751
   },
   "items": {
    "file": "shared/16.22.1/items.json.gz",
@@ -93,9 +153,9 @@
   },
   "jungle": {
    "file": "shared/16.22.1/jungle.json.gz",
-   "hash": "7a4f9e0020872f91c0788a37efae3841adf677da31bf8bbcb05e5af84226dabd",
-   "size": 35903,
-   "gzSize": 5738
+   "hash": "511c701a628e2b7557437d89ec5191f4932740b68c44b209d57f52b82ec03ad3",
+   "size": 35908,
+   "gzSize": 5685
   },
   "tips": {
    "file": "shared/16.22.1/tips.json.gz",
@@ -117,9 +177,9 @@
   },
   "kits.en": {
    "file": "shared/16.22.1/kits.en.json.gz",
-   "hash": "57ae1fc9d37d027f42d2d2e8cf9587d6ca236c1b5638b0363c254df69d321198",
+   "hash": "cb1ba2aadffe5d3d3dff2f8b7bfc4cdc521d5e2164c6940955d1d3d10426c6a5",
    "size": 232364,
-   "gzSize": 63326
+   "gzSize": 63242
   },
   "tips.en": {
    "file": "shared/16.22.1/tips.en.json.gz",
